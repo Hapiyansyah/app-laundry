@@ -28,7 +28,7 @@ Kelas  : TI.22.A2
 
 ## Use Case Pelanggan
 
-![pelanggan_uc](foto/Pelanggan_uc.png)
+![pelanggan_uc](foto/pelanggan_uc.png)
 
 # ADMIN
 ## 1. Menginput data pelanggan
