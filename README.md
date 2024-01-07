@@ -28,7 +28,7 @@ Kelas  : TI.22.A2
 
 ## Use Case Pelanggan
 
-![Pelanggan_uc](foto/Pelanggan_uc.png)
+![pelanggan_uc](foto/Pelanggan_uc.png)
 
 # ADMIN
 ## 1. Menginput data pelanggan
@@ -50,3 +50,7 @@ Kelas  : TI.22.A2
 ## 5. Mengelola laporan transaksi
 
 ![F10](foto/F10.png)
+
+## Use Case Admin
+
+![admin_uc](foto/admin_uc.png)
