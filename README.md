@@ -29,20 +29,20 @@ Kelas  : TI.22.A2
 # ADMIN
 ## 1. Menginput data pelanggan
 
-!
+![F6](foto/F6.png)
 
 ## 2. Mengelola jenis laundry
 
-!
+![F7](foto/F7.png)
 
 ## 3. Mengelola pesanan pelanggan
 
-!
+![F8](foto/F8.png)
 
 ## 4. Mengelola Transaksi
 
-!
+![F9](foto/F9.png)
 
 ## 5. Mengelola laporan transaksi
 
-!
+![F10](foto/F10.png)
