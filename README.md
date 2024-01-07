@@ -10,21 +10,21 @@ Kelas  : TI.22.A2
 # PELANGGAN
 ## 1. Melakukan registrasi dan login 
 
-!
+![F1](foto/F1.png)
 
-!
+![F2](foto/F2.png)
 
 ## 2. Melakukan pemesanan (booking)
 
-!
+![F3](foto/F3.png)
 
 ## 3. Melihat data transaksi
 
-!
+![F4](foto/F4.png)
 
 ## 4. Keluar
 
-!
+![F5](foto/F5.png)
 
 # ADMIN
 ## 1. Menginput data pelanggan
