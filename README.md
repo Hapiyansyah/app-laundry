@@ -18,7 +18,11 @@ Kelas  : TI.22.A2
 
 !
 
-## 3. Keluar
+## 3. Melihat data transaksi
+
+!
+
+## 4. Keluar
 
 !
 
