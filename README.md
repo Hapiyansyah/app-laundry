@@ -26,6 +26,10 @@ Kelas  : TI.22.A2
 
 ![F5](foto/F5.png)
 
+## Use Case Pelanggan
+
+![Pelanggan_uc](foto/Pelanggan_uc.png)
+
 # ADMIN
 ## 1. Menginput data pelanggan
 
