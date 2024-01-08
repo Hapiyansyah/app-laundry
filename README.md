@@ -26,6 +26,10 @@ Kelas  : TI.22.A2
 
 ![F5](foto/F5.png)
 
+## 5. Melakukan pembayaran di tempat laundry (offline)
+
+!
+
 ## Use Case Pelanggan
 
 ![pelanggan_uc](foto/pelanggan_uc.png)
